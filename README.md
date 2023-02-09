@@ -9,7 +9,7 @@ A aplicação segue configurada e documentada pela ferramenta Swagger, pelo qual
 
 https://localhost:7051/swagger/index.html
 
-Após acessar o link, percebera os endpoints separados pelas Controllers: Pessoa e Endereço.
+Após acessar o link, percebera os endpoints da Controller Filme, através dos quais, poderá realizar as requisições. 
 
 # COMO UTILIZAR API:
 
